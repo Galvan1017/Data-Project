@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AB_DataAdquisition_Test01", "AB_DataAdquisition_Test01\AB_DataAdquisition_Test01.csproj", "{8A0F15BD-E37D-4A7B-8FF6-5027E324FCED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A0F15BD-E37D-4A7B-8FF6-5027E324FCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0F15BD-E37D-4A7B-8FF6-5027E324FCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0F15BD-E37D-4A7B-8FF6-5027E324FCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0F15BD-E37D-4A7B-8FF6-5027E324FCED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F16083F9-B4AE-4F50-B917-C763FDEB7D5F}
+	EndGlobalSection
+EndGlobal
